@@ -1,0 +1,21 @@
+# https://github.com/actions/add-to-project
+name: Add bugs to bugs project
+
+on:
+  issues:
+    types:
+      - opened
+      - closed
+
+jobs:
+  add-to-project:
+    name: Add opened issues to project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@0.4.0
+        with:
+          project-url: https://github.com/orgs/Aegis-Nocta/projects/2
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          set-field:
+            if: github.event.action == 'closed'
+            type: Done
