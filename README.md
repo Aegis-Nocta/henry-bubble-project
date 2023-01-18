@@ -4,4 +4,4 @@ Henry Bubble est un bot Discord dédié au serveur communautaire [Aegis Nocta](h
 
 Ce répertoire sert comme outil de communication publique, en opposition avec le code du bot qui est _pour le moment_ privé.
 
-Vous pouvez poster ici votre propre [Issues](https://docs.github.com/fr/issues/tracking-your-work-with-issues/about-issues) pour nous aider à rendre le bot meilleur !
+Vous pouvez [poster ici](https://github.com/Aegis-Nocta/issues/issues) vos propre issues pour nous aider à rendre le bot meilleur ! Les issues sont des posts pour suivre l'avancement d'un bug ou d'une proposition de fonctionnalité. Vous pouvez en apprendre plus en vous rendant [sur la documentation officielle](https://docs.github.com/fr/issues/tracking-your-work-with-issues/about-issues).
