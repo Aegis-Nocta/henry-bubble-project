@@ -1,4 +1,4 @@
-# Henry Bubble 🎈
+# Henry Bubble Issues 🎈
 
 Henry Bubble est un bot Discord dédié au serveur communautaire [Aegis Nocta](https://disboard.org/fr/server/590987264927072266).
 
